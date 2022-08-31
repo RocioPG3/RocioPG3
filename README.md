@@ -9,7 +9,7 @@
 
 ### 📫 You can contact me at:
 - Email : rociopgarcia3@gmail.com
-- Linkedin : https://www.linkedin.com/in/roc%C3%ADo-pinazo-g/
+- Linkedin : https://www.linkedin.com/in/rocío-pinazo-g/
 
 
 ## 🔧 Technologies & Tools
